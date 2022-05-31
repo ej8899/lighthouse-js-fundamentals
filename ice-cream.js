@@ -10,3 +10,5 @@ console.log(iceCreamFlavours);
 console.log(iceCreamFlavours[0]);
 console.log(iceCreamFlavours[iceCreamFlavours.length - 1]);
 console.log(iceCreamFlavours.length);
+
+// added this line on github - does VS pull it, or notify of the changes?
