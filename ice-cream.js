@@ -12,3 +12,4 @@ console.log(iceCreamFlavours[iceCreamFlavours.length - 1]);
 console.log(iceCreamFlavours.length);
 
 // added this line on github - does VS pull it, or notify of the changes?
+// yes it does! needs a sync in VS to get it to work though!
