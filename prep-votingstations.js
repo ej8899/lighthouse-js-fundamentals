@@ -2,6 +2,9 @@
 // prep-votingstations
 //
 
+//
+// NOTE this is a set of OBJECTS - not a typical array!!
+//
 const stations = [
   ['Big Bear Donair', 10, 'restaurant'],
   ['Bright Lights Elementary', 50, 'school'],

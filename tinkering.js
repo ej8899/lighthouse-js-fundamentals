@@ -5,3 +5,5 @@ function multiply(a, b) {
 const result = multiply(2, 8);
 
 console.log(result);
+
+// update
