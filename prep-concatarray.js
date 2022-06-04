@@ -1,5 +1,6 @@
 //
 // prep-concatarray.js
+// 2022-06-03
 // https://flex-web.compass.lighthouselabs.ca/activities/73
 //
 
