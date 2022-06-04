@@ -44,28 +44,3 @@ function loopyLighthouse(range, multiples, words)
     }
   }
 }
-
-/*
-  BELOW IS OLD CODE FROM LOOPY #1
-  for (let i = 100; i < 201; i ++)
-  {
-  // console.log(i);
-  if((!(i % 3)) && (!(i % 4)))
-  {
-    console.log("LoopyLighthouse");
-  }
-  else if(!(i % 3))
-  {
-    console.log("Loopy");
-  }
-  else if(!(i % 4))
-  {
-    console.log("Lighthouse");
-  }
-  else
-  {
-    console.log(i);
-  }
-  }
-
-*/
