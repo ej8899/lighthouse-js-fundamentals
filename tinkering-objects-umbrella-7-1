@@ -1,0 +1,45 @@
+
+
+/*
+ * Programming Quiz: Umbrella (7-1)
+ */
+/*
+ * QUIZ REQUIREMENTS
+ * - Your code should have a variable `umbrella`
+ * - The variable `umbrella` should be an object
+ * - Your `umbrella` object should have the `color` and `isOpen` property
+ * - Your `umbrella` object should have an `open()` method that toggles the value of `isOpen` property
+ * - Your `umbrella` object should have an `close()` method that toggles the value of `isOpen`
+ */
+
+var umbrella = {
+  color: "pink",
+  isOpen: false,
+  open: function() {
+      if (umbrella.isOpen === true) {
+          return "The umbrella is already opened!";
+      } else {
+          umbrella.isOpen = true;
+          return "Julia opens the umbrella!";
+      }
+  },
+  close: function()
+  {
+    if(umbrella.isOpen === true)
+    {
+      umbrella.isOpen = false;
+      return "umbrella is closed";
+    }
+    else
+    {
+      return "umbrella already closed";
+    }
+  }
+};
+
+// console.log(umbrella.open());
+console.log(umbrella.close());
+
+
+// more info
+// https://classroom.udacity.com/courses/ud803/lessons/8e735445-f432-4b23-86ec-156a7a3332b3/concepts/771b52ec-e812-4129-a92a-8fe82db26797
