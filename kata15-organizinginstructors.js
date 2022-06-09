@@ -16,7 +16,7 @@ const organizeInstructors = function(instructors)
   // return the assembled object
   for(const instructor of instructors)  // loop thru the passed object
   {
-    let theName=instructor.name;
+    let theName=instructor.name;  // grab each name and course from the object position we're in
     let theCourse=instructor.course;
     // console.log(theName); // debug
 
