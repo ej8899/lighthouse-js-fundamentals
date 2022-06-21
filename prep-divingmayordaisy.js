@@ -20,7 +20,7 @@ const cars = [
 
 const speed = 38;
 carPassing(cars, speed);
-// console.log(cars);
+console.log(cars);
 
 //
 // add a new entry of 'speed' into the 1st argument (the existing ojbect array)
