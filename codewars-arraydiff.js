@@ -11,7 +11,7 @@
 // console.log(arrayDiff([], [1,2])); // [], "a was [], b was [1,2]");
 
 // console.log(arrayDiff([1,2,3], [1,2])); // [3], "a was [1,2,3], b was [1,2]")
-    
+
 // loop thru each array - create a new list, but OMIT items matching in both lists - keep array order
 
 

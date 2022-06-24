@@ -1,9 +1,8 @@
 const vegetables = [
-  
   {
-  submitter: 'Sally Tomato-Grower',
-  redness: 2,
-  plumpness: 8
+    submitter: 'Sally Tomato-Grower',
+    redness: 2,
+    plumpness: 8
   },
   {
     submitter: 'Old Man Franklin',
@@ -11,9 +10,9 @@ const vegetables = [
     plumpness: 5
     },
   {
-  submitter: 'Hamid Hamidson',
-  redness: 4,
-  plumpness: 3
+    submitter: 'Hamid Hamidson',
+    redness: 4,
+    plumpness: 3
   }
   ]
   
